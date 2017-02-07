@@ -1,9 +1,11 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: THE HAPPY TO HELP ORGANIZATION
+description: Working for a better future...
+url: http://127.0.0.1:4000 
 logo: halve.png                                       # Site logo
 locale: en_US
+
+
 
 # Left Block Images
 background:
@@ -29,12 +31,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             mailhappytohelp@gmail.com
 #google.plus:        username
-twitter:            username
-#facebook:           username
+twitter:            1happytohelp
+facebook:           1.happytohelp
+telegram:           https://t.me/theh2h
 github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +55,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:

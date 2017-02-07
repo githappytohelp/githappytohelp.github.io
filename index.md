@@ -1,10 +1,16 @@
 ---
 layout: home
 ---
-# About Theme
+# About 
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+A group of people working together towards a better society is what we are.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+
+#### What kind of help u ask?
+Help is not pre-defined, anything that you consider will help you out is "Help". It could be anything from getting groceries to helping out an accident victim. We provide help for those who need it and those who ask for it(except financial services). What makes us stand out is that money is not our primary motive, helping people is.
+
+#### Like what we do ? 
+Be a part of this group and feel the joy that comes from helping people. If you like helping people out and expect nothing but a smile and a blessing in return then join us. We can't help everyone but everyone can help someone, all you need is a kind heart and a helping hand.
+ 
+Help others, make each day count.

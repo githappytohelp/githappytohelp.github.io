@@ -29,14 +29,18 @@ layout: compress
       <div class="share-buttons">
         {% include share.html %}
       </div>
-      <a href="../posts.html" title="posts" class="posts-menu-icon"></a>
-      <a title="projects" class="projects-menu-icon">
-        <span></span>
-      </a>
+      <a href="../posts.html" title="posts" class="posts-menu-icon" style="margin-right: -50px"></a>
+      <span class="posts-link" style="margin-right: -50px" >POSTS</span>
+     
       <div class="inner-post content">
-        <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
+        <div class="date-highlight" >
+          {% if page.date %}
+            {{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;
+          {% endif %}
+        </div>
         {{ content }}
         <br>
+        <div style="text-align:right; display: inline;"></div>
         {% include share.html %}
         {% include page-pagination.html %}
       </div>
