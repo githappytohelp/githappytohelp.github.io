@@ -4,13 +4,12 @@ layout: home
 # About 
 
 
-A group of people working together towards a better society is what we are.
+Happy to Help is an organization which  works towards making this society a better place to live in. We here at Happy to Help invest our time and effort in helping  people out.
 
+#### **What we do?**
+In simple words, we help people out. Anything that you consider will help you out is what we consider as 'help'. Help could be anything from getting groceries to something as big as helping out an accident victim.
 
-#### What kind of help u ask?
-Help is not pre-defined, anything that you consider will help you out is "Help". It could be anything from getting groceries to helping out an accident victim. We provide help for those who need it and those who ask for it(except financial services). What makes us stand out is that money is not our primary motive, helping people is.
+­­­­­­­­<small> (We do not provide any sort of financial services, i.e. loans , monetary favors etc.) </small>
 
-#### Like what we do ? 
-Be a part of this group and feel the joy that comes from helping people. If you like helping people out and expect nothing but a smile and a blessing in return then join us. We can't help everyone but everyone can help someone, all you need is a kind heart and a helping hand.
- 
-Help others, make each day count.
+#### **Like what we do ? - Join us**
+Any person can be a part of this organization in the form of volunteers. If you are the kind of person that likes helping others and expect nothing but a smile in return, then you are just the kind of person we need.

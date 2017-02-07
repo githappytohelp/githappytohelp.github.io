@@ -1,4 +1,4 @@
----
+ ---
  layout: error
  title: "You're just one step away..."
  tags: 
@@ -7,7 +7,7 @@
   - Terms and Conditons
 ---
 <style>
- #button-small{
+#button-small{
   background-color: #4dbe7a; 
   width: 150px;   
   height: 50px; 
@@ -18,11 +18,11 @@
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
- #button-small:hover{
+#button-small:hover{
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 </style>
-## Please make sure that you read the following conditions very carefully.
+## Please make sure that you read the following conditions very carefully. okay!!
 
 * **You can request for any kind of help. Remember to keep the requests civil and decent.**
 * **While the volunteer is helping you please be the best version of yourself; remember this person is taking out some time from his/her life just to help you out.**
@@ -37,7 +37,8 @@
 <!-- Make sure you copy the style while you copy the button -->
  <!-- Make sure you copy the style while you copy the button -->
  
-<a href="https://t.me/theh2h" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small" >Dive In</button></a>
+<a href="https://t.me/theh2h" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small" >Join Now</button></a>
 
 
-<small>Anything to ask [mail us](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}){:target="_blank"}</small>
+
+

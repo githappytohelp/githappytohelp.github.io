@@ -1,8 +1,8 @@
 <ul>
-  {% if site.telegram %}<li><a class="social-btn" style="display:block;" href="{{ site.url }}/tc" rel="noopener noreferrer">Join Now</a></li>{% endif %}
+  {% if site.telegram %}<li><a class="social-btn" id="button-big" style="" href="{{ site.url }}/tc" rel="noopener noreferrer">Join Now</a></li>{% endif %}
   </ul>
 <ul>
-  {% if site.email %}<li><a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope"></i></a></li>{% endif %}
+  {% if site.email %}<li><a class="social-btn" href="https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope"></i></a></li>{% endif %}
   {% if site.behance %}<li><a class="social-btn" href="https://www.behance.net/{{ site.behance }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-behance"></i></a></li>{% endif %}
   {% if site.twitter %}<li><a class="social-btn" href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter"></i></a></li>{% endif %}
   {% if site.facebook %}<li><a class="social-btn" href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook"></i></a></li>{% endif %}

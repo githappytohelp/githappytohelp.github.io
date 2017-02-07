@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://theh2h.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://theh2h.org/" rel="alternate" type="text/html" /><updated>2017-02-07T19:26:58+05:30</updated><id>http://theh2h.org/</id><title>THE HAPPY TO HELP ORGANIZATION</title><subtitle>Working for a better future...</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-08T01:38:26+05:30</updated><id>http://localhost:4000/</id><title>THE HAPPY TO HELP ORGANIZATION</title><subtitle>Working for a better future...</subtitle><entry><title>Telegram Group</title><link href="http://localhost:4000/Telegram-Launch/" rel="alternate" type="text/html" title="Telegram Group" /><published>2017-02-06T00:00:00+05:30</published><updated>2017-02-06T00:00:00+05:30</updated><id>http://localhost:4000/Telegram-Launch</id><content type="html" xml:base="http://localhost:4000/Telegram-Launch/">&lt;style&gt;
+#button-small{
+  background-color: #4dbe7a; 
+  width: 150px;   
+  height: 50px; 
+  color: #ffffff; 
+  margin :20px auto; 
+  border:none;
+  display:block; 
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+#button-small:hover{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+&lt;/style&gt;
+
+&lt;h2 id=&quot;intoducing-the-new-telegram-group&quot;&gt;Intoducing The New Telegram Group.&lt;/h2&gt;
+&lt;p&gt;We welcome anyone with a kind heart and a helping hand to help the people of Bengaluru .
+The Telegram group is all about seeking help and helping others in need.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-do-we-do-it&quot;&gt;&lt;strong&gt;How do we do it?&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;1.Anybody who needs help can request on telegram .&lt;/p&gt;
+
+&lt;p&gt;2.Anybody can accept the request, and spread the happiness.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* you may  share your happiness when you help somebody 
+
+* Any queries about the process can be clarified .
+
+* New ideas are encouraged.  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Moreover the person who helps the most will be featured on our social links every Sunday.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;happy-helping-&quot;&gt;&lt;strong&gt;Happy Helping :)&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;!-- Make sure you copy the style while you copy the button --&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/tc&quot; style=&quot;color: #fff;test-decoration:none; border:none;font-size:24px;&quot;&gt;&lt;button id=&quot;button-small&quot;&gt;Join Now&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Anything to ask &lt;a href=&quot;https://mail.google.com/mail/?view=cm&amp;amp;fs=1&amp;amp;to=mailhappytohelp@gmail.com&quot; target=&quot;_blank&quot;&gt;mail us&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>Pratik Jain</name></author><category term="Telegram" /><category term="@theh2h" /><summary>Intoducing The New Telegram Group.
+We welcome anyone with a kind heart and a helping hand to help the people of Bengaluru .
+The Telegram group is all about seeking help and helping others in need.</summary></entry><entry><title>Website Created</title><link href="http://localhost:4000/website-created/" rel="alternate" type="text/html" title="Website Created" /><published>2017-02-05T00:00:00+05:30</published><updated>2017-02-05T00:00:00+05:30</updated><id>http://localhost:4000/website-created</id><content type="html" xml:base="http://localhost:4000/website-created/">&lt;h2 id=&quot;welcome&quot;&gt;Welcome&lt;/h2&gt;
+
+&lt;p&gt;The domain - &lt;a href=&quot;http://theh2h.org&quot; target=&quot;_blank&quot;&gt;http://theh2h.org&lt;/a&gt; is owned by the team and  on a whole it is build on &lt;a href=&quot;https://www.jekyllrb.com&quot; target=&quot;_blank&quot;&gt;jekyll&lt;/a&gt; (static website designer).
+Hosting any website is a tedious job, and requires some investment - but we have &lt;a href=&quot;https://pages.github.com&quot; target=&quot;_blank&quot;&gt;github pages&lt;/a&gt; to  the rescue . -hosting  made free.&lt;/p&gt;
+
+&lt;p&gt;Everything has a purpose… so does the  website. We are striving hard and we don’t want the community to stay behind. For purpose of keeping the community updated, anything and everything the team is working on will be put up on the &lt;a href=&quot;http://theh2h.org/posts&quot;&gt;posts link&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;moving forward ; 
+This website will also act as  a link for connecting people from our social handles to the telegram group, so that the volunteers abide by the terms and conditions before joining the group. If you aren’t a member yet, &lt;a href=&quot;https://theh2h.org/tc&quot;&gt;Join Now&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s it for now.&lt;/p&gt;
+
+&lt;p&gt;-Thank you for stopping by.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Anything to ask &lt;a href=&quot;https://mail.google.com/mail/?view=cm&amp;amp;fs=1&amp;amp;to=mailhappytohelp@gmail.com&quot; target=&quot;_blank&quot;&gt;mail us&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content><category term="Website" /><category term="theh2h.org" /><category term="first_post" /><summary>The Whole new Beginning!</summary></entry></feed>
