@@ -23,7 +23,18 @@ tags:
 #button-small:hover{
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
+#disabled{
+background-color: #ccc;
+}
+#disabeld:hover{
+ box-shadow:none;
+}
+.note{
+font-size : 1.2rem;
+color: red;
+}
 </style>
+<div class="note">Note: The  group is closed!</div>
 ## Intoducing The New Telegram Group.
 We welcome anyone with a kind heart and a helping hand to help the people of Bengaluru .
 The Telegram group is all about seeking help and helping others in need.
@@ -49,9 +60,9 @@ The Telegram group is all about seeking help and helping others in need.
 #### **Happy Helping :)**
 
 <!-- Make sure you copy the style while you copy the button -->
- 
-<a href="{{ site.url }}/tc" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small" >Join Now</button></a>
-
+<!-- 
+<a href="#" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small disabled" disabled>Join Now</button></a>
+-->
 
 
 <small>Anything to ask [mail us](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}){:target="_blank"}</small>
