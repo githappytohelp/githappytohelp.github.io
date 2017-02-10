@@ -49,7 +49,7 @@ The Facebook group is all about seeking help and helping others in need.
 #### **Happy Helping :)**
 
 <!-- Make sure you copy the style while you copy the button -->
-<a href="https://www.fb.com/groups/{{ site.fb_group }}" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small">Join Now</button></a>
+<a href="https://www.fb.com/groups/{{ site.fb_group }}" target="_blank" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small">Join Now</button></a>
 
 
 <small>Anything to ask [mail us](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}){:target="_blank"}</small>
