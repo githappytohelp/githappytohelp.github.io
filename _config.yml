@@ -1,7 +1,7 @@
 # Site
 title: THE HAPPY TO HELP ORGANIZATION
 description: Working for a better future...
-url: http://theh2h.org
+url: http://theh2h.org 
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -33,7 +33,7 @@ sass:
 # Social Links
 email:             mailhappytohelp@gmail.com
 #google.plus:        username
-twitter:            1happytohelp
+fb_group:           theh2h
 facebook:           1.happytohelp
 telegram:           https://t.me/theh2h
 github:             githappytohelp

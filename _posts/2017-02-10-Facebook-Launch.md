@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Telegram Group"
+title: "Facebook Group"
 author: "Pratik Jain"
 tags: 
-  - Telegram
+  - Facebook
   - '@theh2h'
   - 
   - 
@@ -23,31 +23,20 @@ tags:
 #button-small:hover{
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
-#disabled{
-background-color: #ccc;
-}
-#disabeld:hover{
- box-shadow:none;
-}
-.note{
-font-size : 1.2rem;
-color: red;
-}
 </style>
-<div class="note">Note: The  group is closed!</div>
-## Intoducing The New Telegram Group.
+## Intoducing The New Facebook Group.
 We welcome anyone with a kind heart and a helping hand to help the people of Bengaluru .
-The Telegram group is all about seeking help and helping others in need.
+The Facebook group is all about seeking help and helping others in need.
 
 #### **How do we do it?**
 
-1.Anybody who needs help can request on telegram .
+1.Anybody who needs help can request that on Facebook .
 
 2.Anybody can accept the request, and spread the happiness.
 
 
 
-    * you may  share your happiness when you help somebody 
+    * you may share your happiness when you help somebody 
 
     * Any queries about the process can be clarified .
 
@@ -60,9 +49,7 @@ The Telegram group is all about seeking help and helping others in need.
 #### **Happy Helping :)**
 
 <!-- Make sure you copy the style while you copy the button -->
-<!-- 
-<a href="#" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small disabled" disabled>Join Now</button></a>
--->
+<a href="www.fb.com/groups/{{ site.fb_group }}" style="color: #fff;test-decoration:none; border:none;font-size:24px;"><button id="button-small">Join Now</button></a>
 
 
 <small>Anything to ask [mail us](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}){:target="_blank"}</small>
