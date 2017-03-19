@@ -24,7 +24,7 @@ tags:
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 </style>
-## Intoducing The New Facebook Group.
+## Introducing The New Facebook Group.
 We welcome anyone with a kind heart and a helping hand to help the people of Bengaluru .
 The Facebook group is all about seeking help and helping others in need.
 
